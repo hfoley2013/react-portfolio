@@ -11,14 +11,14 @@
     },
     "projects": [
       {
-        "title": "Animal Shelter",
-        "startDate": "2020",
-        "description": "The most expanded application I had opportunity to work with. I've learned many technologies and my code was reviewed by awesome curator. Application handles all adoption processess and allows to store all evidence on adopting animals from animal shelter.",
+        "title": "Rainier Racing Co. NFT",
+        "startDate": "2022",
+        "description": "Building out the 'CapitalIQ' of Play-To-Earn gaming. RRC gives Web3 gamers access to the financial market data they need to make informed purchases of gaming NFTs and start generating higher ROI. MVP consists of concentrated focus on the digital horse racing game ZED Run and tracking its associated secondary market of NFT sales.",
         "images": [
-          "images/portfolio/animal-shelter/p1.jpg",
-          "images/portfolio/animal-shelter/p2.jpg"
+          "images/portfolio/rrc/RRC-home.png",
+          "images/portfolio/rrc/RRC-screener.png"
         ],
-        "url": "",
+        "url": "https://rainierracingco.com/",
         "technologies": [
           {
             "class": "devicon-angularjs-plain",
