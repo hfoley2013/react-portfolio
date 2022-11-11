@@ -7,7 +7,7 @@
 
 ## Time Estimates
 
-### Feature 1: xx
+### Feature 1: About Me Page
 
 * **Number and name of feature:**
 * **Estimate of time needed to complete:**
@@ -15,6 +15,29 @@
 * **Finish time:**
 * **Actual time needed to complete:**
 
+### Feature 2: Projects Section
+
+* **Number and name of feature:**
+* **Estimate of time needed to complete:**
+* **Start time:**
+* **Finish time:**
+* **Actual time needed to complete:**
+
+### Feature 3: Skills & Experience Section
+
+* **Number and name of feature:**
+* **Estimate of time needed to complete:**
+* **Start time:**
+* **Finish time:**
+* **Actual time needed to complete:**
+
+### Feature 4: Personalization
+
+* **Number and name of feature:**
+* **Estimate of time needed to complete:**
+* **Start time:**
+* **Finish time:**
+* **Actual time needed to complete:**
 <!-- ### Feature ##: xx
 
 * **Number and name of feature:**
