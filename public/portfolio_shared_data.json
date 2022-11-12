@@ -19,7 +19,7 @@
           "class": "fab fa-twitter"
         }
       ],
-      "image": "./images/portfolio/myProfile.jpg"
+      "image": "images/portfolio/myProfile.jpg"
     },
     "skills": {
       "icons": [
