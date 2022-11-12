@@ -88,15 +88,9 @@
           "Leadership/Management"
         ],
         "technologies": [
-          "REST API",
-          "RxJS",
-          "JavaScript",
-          "Bootstrap",
-          "MDBootstrap",
-          "EF Core",
-          ".NET Core",
-          "SignalR",
-          "Angular Material"
+          "Excel",
+          "PowerPoint",
+          "Scrum"
         ]
       },
       {
@@ -107,26 +101,26 @@
           "Investment Banking: Tech M&A"
         ],
         "technologies": [
-          "RxJS",
-          "Django",
-          "PHP",
-          "JavaScript",
-          "DHTMLX Gantt"
+          "Excel",
+          "PowerPoint",
+          "VBA",
+          "Python"
         ]
       },
       {
-        "company": "Code Fellows",
-        "title": "Software Developer",
-        "years": "09.2022 - Present",
+        "company": "Rainier Racing Co. NFT",
+        "title": "Founder | CEO | Software Developer",
+        "years": "02.2022 - Present",
         "mainTech": [
           "Python"
         ],
         "technologies": [
-          "RxJS",
-          "Django",
+          "Python",
+          "GraphQL",
           "PHP",
           "JavaScript",
-          "DHTMLX Gantt"
+          "React",
+          "Solidity"
         ]
       }
     ]
