@@ -35,14 +35,14 @@
         ]
       },
       {
-        "title": "Photography",
-        "startDate": "2018",
-        "description": "Personal project for study subject. I was responsible for testing photography application that optimizes images with popular algorithms used by graphic editors like Pixlr or Adobe Photoshop. I've earned A grade :)",
+        "title": "Target Practice",
+        "startDate": "2022",
+        "description": "Target Practice is a JavaScript based game where the goal is to shoot down ducks. Based on the Nintendo classic Duck Hunt, our game pays homage to a true classic while also flexing skills with HTML, CSS, and vanilla JavaScript. Compete against players from around the globe and see how high you can score!",
         "images": [
-          "images/portfolio/photography/p1.jpg",
-          "images/portfolio/photography/p2.jpg"
+          "images/portfolio/targetpractice/target-practice-cover.png",
+          "images/portfolio/targetpractice/game-page.png"
         ],
-        "url": "https://github.com",
+        "url": "https://cf201-team-black.github.io/target-practice/",
         "technologies": [
           {
             "class": "devicon-react-original",
