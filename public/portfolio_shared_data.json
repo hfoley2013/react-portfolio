@@ -17,6 +17,11 @@
           "name": "twitter",
           "url": "https://twitter.com/RainierRacingCo",
           "class": "fab fa-twitter"
+        },
+        {
+          "name": "linkedin",
+          "url": "https://www.linkedin.com/in/harper-e-foley/",
+          "class": "fab fa-linkedin"
         }
       ],
       "image": "images/portfolio/myProfile.jpg"
