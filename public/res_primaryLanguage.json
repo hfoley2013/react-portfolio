@@ -55,14 +55,14 @@
         ]
       },
       {
-        "title": "3D Object Viewer",
-        "startDate": "2015",
-        "description": "One of the first apps I was working on my internship. I had to develop front-end implementation for app that shows 3D models of known buildings. This was also my first project in Angular framework. I've learned a lot!",
+        "title": "Gallery of Horns",
+        "startDate": "2022",
+        "description": "A web application that allows users to view, sort, and vote for their favorite animals with horns.",
         "images": [
-          "images/portfolio/adventure/p1.jpg",
-          "images/portfolio/adventure/p2.jpg"
+          "images/portfolio/galleryofhorns/galleryofhorn-landing.png",
+          "images/portfolio/galleryofhorns/sorted.png"
         ],
-        "url": "https://github.com",
+        "url": "https://cheerful-fudge-ebd068.netlify.app/",
         "technologies": [
           {
             "class": "devicon-angularjs-plain",
@@ -81,11 +81,11 @@
     ],
     "experience": [
       {
-        "company": "DefOpenSource",
-        "title": "Front-End Developer",
-        "years": "10.2019 - present",
+        "company": "U.S. Navy",
+        "title": "Special Operations Officer",
+        "years": "05.2013 - 05.2021",
         "mainTech": [
-          "Angular 8/9/10"
+          "Leadership/Management"
         ],
         "technologies": [
           "REST API",
@@ -100,11 +100,26 @@
         ]
       },
       {
-        "company": "Serros Solutions",
-        "title": "Intern",
-        "years": "01.2018 - 09.2019",
+        "company": "Houlihan Lokey",
+        "title": "Financial Analyst",
+        "years": "07.2021 - 03.2021",
         "mainTech": [
-          "Angular 7/8"
+          "Investment Banking: Tech M&A"
+        ],
+        "technologies": [
+          "RxJS",
+          "Django",
+          "PHP",
+          "JavaScript",
+          "DHTMLX Gantt"
+        ]
+      },
+      {
+        "company": "Code Fellows",
+        "title": "Software Developer",
+        "years": "09.2022 - Present",
+        "mainTech": [
+          "Python"
         ],
         "technologies": [
           "RxJS",
