@@ -17,7 +17,8 @@
         "images": [
           "images/portfolio/cleanaircompass/cac_home.png",
           "images/portfolio/cleanaircompass/cac_heatmap.png",
-          "images/portfolio/cleanaircompass/cac_modal.png"
+          "images/portfolio/cleanaircompass/cac_modal.png",
+          "images/portfolio/cleanaircompass/cac_demo.gif"
         ],
         "url": "https://clean-air-compass-mzvbj.ondigitalocean.app/",
         "technologies": [
@@ -95,34 +96,6 @@
           {
             "class": "devicon-javascript-plain",
             "name": "JavaScript"
-          },
-          {
-            "class": "devicon-css3-plain",
-            "name": "CSS3"
-          }
-        ]
-      },
-      {
-        "title": "Datesters",
-        "startDate": "2022",
-        "description": "Datesters is an online date planner application that allows users to determine the suitability of a dating partner based on their names and returns a Percent Match. The application will then suggest a series of popular date spots based on the user's location. Users will be able to save their partners and date spots for future reference.",
-        "images": [
-          "images/portfolio/rrc/RRC-home.png",
-          "images/portfolio/rrc/RRC-screener.png"
-        ],
-        "url": "https://datesters.netlify.app/",
-        "technologies": [
-          {
-            "class": "devicon-javascript-plain",
-            "name": "JavaScript"
-          },
-          {
-            "class": "devicon-react-plain",
-            "name": "React"
-          },
-          {
-            "class": "devicon-bootstrap-plain",
-            "name": "Bootstrap"
           },
           {
             "class": "devicon-css3-plain",
