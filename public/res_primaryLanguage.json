@@ -48,6 +48,33 @@
         ]
       },
       {
+        "title": "ThroughZED Analytics",
+        "startDate": "2023",
+        "description": "The number one tool for valuing NFT horses on the ZED RUN digital horse racing platform.",
+        "images": [
+          "images/portfolio/throughzed/tz_demo.gif"
+        ],
+        "url": "https://github.com/ThoroughZed-Analytics/Thoroughzed",
+        "technologies": [
+          {
+            "class": "devicon-python-plain",
+            "name": "Python"
+          },
+          {
+            "class": "devicon-sqlite-plain",
+            "name": "SQLite"
+          },
+          {
+            "class": "devicon-kaggle-plain",
+            "name": "Kaggle"
+          },
+          {
+            "class": "devicon-pandas-plain",
+            "name": "Pandas"
+          }
+        ]
+      },
+      {
         "title": "Rainier Racing Co. NFT",
         "startDate": "2022",
         "description": "Building out the 'CapitalIQ' of Play-To-Earn gaming. RRC gives Web3 gamers access to the financial market data they need to make informed purchases of gaming NFTs and start generating higher ROI. MVP consists of concentrated focus on the digital horse racing game ZED Run and tracking its associated secondary market of NFT sales.",
@@ -68,6 +95,34 @@
           {
             "class": "devicon-javascript-plain",
             "name": "JavaScript"
+          },
+          {
+            "class": "devicon-css3-plain",
+            "name": "CSS3"
+          }
+        ]
+      },
+      {
+        "title": "Datesters",
+        "startDate": "2022",
+        "description": "Datesters is an online date planner application that allows users to determine the suitability of a dating partner based on their names and returns a Percent Match. The application will then suggest a series of popular date spots based on the user's location. Users will be able to save their partners and date spots for future reference.",
+        "images": [
+          "images/portfolio/rrc/RRC-home.png",
+          "images/portfolio/rrc/RRC-screener.png"
+        ],
+        "url": "https://datesters.netlify.app/",
+        "technologies": [
+          {
+            "class": "devicon-javascript-plain",
+            "name": "JavaScript"
+          },
+          {
+            "class": "devicon-react-plain",
+            "name": "React"
+          },
+          {
+            "class": "devicon-bootstrap-plain",
+            "name": "Bootstrap"
           },
           {
             "class": "devicon-css3-plain",
