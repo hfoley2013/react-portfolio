@@ -1,7 +1,7 @@
 import React, { Component } from "react";
 import { Icon } from "@iconify/react";
-import graphqlIcon from "@iconify/icons-logos/graphql";
-import reactIcon from "@iconify/icons-logos/react";
+import nextjsIcon from "@iconify/icons-logos/nextjs-icon";
+import djangoIcon from "@iconify/icons-logos/django-icon";
 import pythonIcon from '@iconify/icons-logos/python';
 
 class About extends Component {
@@ -35,11 +35,11 @@ class About extends Component {
                       style={{ fontSize: "400%", margin: "9% 5% 0 5%" }}
                     />
                     <Icon
-                      icon={reactIcon}
+                      icon={djangoIcon}
                       style={{ fontSize: "400%", margin: "9% 5% 0 5%" }}
                     />
                   <Icon
-                    icon={graphqlIcon}
+                    icon={nextjsIcon}
                     style={{ fontSize: "400%", margin: "9% 5% 0 5%" }}
                   />
                 </span>
