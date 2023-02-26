@@ -1,6 +1,6 @@
 {
     "basic_info": {
-      "description_header": "Hi",
+      "description_header": "Bombs => Banking => Backend",
       "description": "👋 My name is Harper Foley and I am a full-stack software developer with a background in finance and Navy Special Operations. I spent eight years leading elite teams of bomb technicians across the globe in extremely fast-paced and ambiguous environments with a 100% mission success rate. After transitioning from the military in 2021, I broke into investment banking as a financial analyst specializing in Tech M&A and advised on 10 projects valued at ~$3.5 billion. I decided to move into software development because after learning some basic VBA and Python coding to eliminate a series of manual processes at work, I realized that I really enjoyed designing software programs and loved being the creator of tools that solved real world problems. I am currently working on a project, Rainier Racing Co., to build the “Robinhood” of Play-To-Earn Gaming that gives Web3 gamers access to the financial market data they need to make informed purchases of gaming NFTs. You should bring me onboard because I can uniquely bridge the gap between your product, engineering, and business teams by leveraging my leadership, finance, and coding experience to help build amazing products that your customers will love.",
       "section_name": {
         "about": "About me",
@@ -10,6 +10,43 @@
       }
     },
     "projects": [
+      {
+        "title": "CleanAir Compass",
+        "startDate": "2023",
+        "description": "A web application that allows users to view an interactive Air Quality Index (AQI) heatmap of the United States and receive SMS alerts for areas of interest.",
+        "images": [
+          "images/portfolio/cleanaircompass/cac_home.png",
+          "images/portfolio/cleanaircompass/cac_heatmap.png",
+          "images/portfolio/cleanaircompass/cac_modal.png"
+        ],
+        "url": "https://clean-air-compass-mzvbj.ondigitalocean.app/",
+        "technologies": [
+          {
+            "class": "devicon-python-plain",
+            "name": "Python"
+          },
+          {
+            "class": "devicon-django-plain",
+            "name": "Django (DRF)"
+          },
+          {
+            "class": "devicon-nextjs-original",
+            "name": "Next.js"
+          },
+          {
+            "class": "devicon-sqlite-plain",
+            "name": "SQLite"
+          },
+          {
+            "class": "devicon-kaggle-plain",
+            "name": "Kaggle"
+          },
+          {
+            "class": "devicon-google-plain",
+            "name": "Google"
+          }
+        ]
+      },
       {
         "title": "Rainier Racing Co. NFT",
         "startDate": "2022",
@@ -61,34 +98,6 @@
             "name": "CSS3"
           }
         ]
-      },
-      {
-        "title": "Gallery of Horns",
-        "startDate": "2022",
-        "description": "A web application that allows users to view, sort, and vote for their favorite animals with horns.",
-        "images": [
-          "images/portfolio/galleryofhorns/galleryofhorn-landing.png",
-          "images/portfolio/galleryofhorns/sorted.png"
-        ],
-        "url": "https://cheerful-fudge-ebd068.netlify.app/",
-        "technologies": [
-          {
-            "class": "devicon-html5-plain",
-            "name": "HTML"
-          },
-          {
-            "class": "devicon-javascript-plain",
-            "name": "JavaScript"
-          },
-          {
-            "class": "devicon-css3-plain",
-            "name": "CSS3"
-          },
-          {
-            "class": "devicon-react-plain",
-            "name": "React"
-          }
-        ]
       }
     ],
     "experience": [
@@ -128,11 +137,14 @@
         ],
         "technologies": [
           "Python",
-          "GraphQL",
-          "PHP",
           "JavaScript",
           "React",
-          "Solidity"
+          "Django",
+          "Django Rest Framework",
+          "MongoDB",
+          "SQLite",
+          "PostgreSQL",
+          "Docker"
         ]
       }
     ]
