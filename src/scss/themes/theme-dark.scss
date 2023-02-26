@@ -72,14 +72,16 @@ body[data-theme="dark"] {
       .section-title {
          color: white !important;
       }
+// #0d63fd - blue
+// #919191 - grey
 
       .experience-badge {
-         background: #919191 !important;
+         background: #05204f !important;
          color: white;
       }
 
       .main-badge {
-         background: #919191 !important;
+         background: #05204f !important;
       }
 
       .vertical-timeline-element-date {
@@ -87,7 +89,7 @@ body[data-theme="dark"] {
       }
 
       .vertical-timeline-element-icon {
-         background: #919191 !important;
+         background: #05204f !important;
       }
       @media only screen and (max-width: 1169px) { 
          .vertical-timeline-element-date {

@@ -51,6 +51,23 @@ header .nav {
 	letter-spacing: 5px;
 }
 
+header .nav-link {
+	color: #a9d7e8;
+	background-color: #05204f;
+	border-radius: 25px;
+}
+
+header .nav-link.active {
+	color: #e5aaf9;
+}
+
+header .nav-link:hover {
+	color: #05204f;
+	background-color: #a9d7e8;
+	border-radius: 25px;
+}
+
+
 .github-corner:hover .octo-arm {
 	animation:octocat-wave 560ms ease-in-out
 }
