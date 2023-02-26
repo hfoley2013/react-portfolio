@@ -17,7 +17,8 @@
         "images": [
           "images/portfolio/cleanaircompass/cac_home.png",
           "images/portfolio/cleanaircompass/cac_heatmap.png",
-          "images/portfolio/cleanaircompass/cac_modal.png"
+          "images/portfolio/cleanaircompass/cac_modal.png",
+          "images/portfolio/cleanaircompass/cac_demo.gif"
         ],
         "url": "https://clean-air-compass-mzvbj.ondigitalocean.app/",
         "technologies": [
@@ -44,6 +45,33 @@
           {
             "class": "devicon-google-plain",
             "name": "Google"
+          }
+        ]
+      },
+      {
+        "title": "ThroughZED Analytics",
+        "startDate": "2023",
+        "description": "The number one tool for valuing NFT horses on the ZED RUN digital horse racing platform.",
+        "images": [
+          "images/portfolio/throughzed/tz_demo.gif"
+        ],
+        "url": "https://github.com/ThoroughZed-Analytics/Thoroughzed",
+        "technologies": [
+          {
+            "class": "devicon-python-plain",
+            "name": "Python"
+          },
+          {
+            "class": "devicon-sqlite-plain",
+            "name": "SQLite"
+          },
+          {
+            "class": "devicon-kaggle-plain",
+            "name": "Kaggle"
+          },
+          {
+            "class": "devicon-pandas-plain",
+            "name": "Pandas"
           }
         ]
       },
